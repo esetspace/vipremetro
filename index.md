@@ -2,4 +2,6 @@
 
 My first project, i am so happy. Yippie
 
+Going to start with this project now. Will be keeping it simple.
+
 
